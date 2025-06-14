@@ -1,4 +1,4 @@
-<h1 align="center"> [NeurIPS 2024] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning </h1>
+<h1 align="center"> [NeurIPS 2024] <i>Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning</i></h1>
 <p align="center">
     Qi Wang*
     ·
