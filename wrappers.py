@@ -184,6 +184,7 @@ class RoboDesk:
         self._act_is_dict = hasattr(self._env.action_space, 'spaces')
         self._obs_key = obs_key
         self._act_key = act_key
+        self._size = (64,64)
 
     def __getattr__(self, name):
         if name.startswith('__'):
